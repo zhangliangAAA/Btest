@@ -29,6 +29,9 @@
     [_mainV.button2 addTarget:self action:@selector(Equip) forControlEvents:UIControlEventTouchUpInside];
     [_mainV.button3 addTarget:self action:@selector(Infor) forControlEvents:UIControlEventTouchUpInside];
     
+    NSLog(@"张良浩。。。。");
+    
+    NSLog(@"张良浩。。。。0000000");
 }
 
 - (void)Heroes

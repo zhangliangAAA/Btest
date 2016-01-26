@@ -23,6 +23,8 @@
     [_basicV.backButton addTarget:self action:@selector(pop) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:_basicV];
     
+    
+    
 }
 
 - (void)pop

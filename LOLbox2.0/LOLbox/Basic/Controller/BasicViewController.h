@@ -11,4 +11,7 @@
 @interface BasicViewController : UIViewController
 
 @property (nonatomic,strong)BasicView *basicV;
+
+
+
 @end
