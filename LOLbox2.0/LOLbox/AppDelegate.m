@@ -27,6 +27,8 @@
     self.window.rootViewController = navigationVC;
     [self.window makeKeyAndVisible];
     
+    NSLog(@"zlh 2016 4 11");
+    
     return YES;
 }
 
