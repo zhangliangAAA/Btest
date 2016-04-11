@@ -20,6 +20,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
+    NSLog(@"2016.4.11 2:43");
+    
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     self.window.backgroundColor = [UIColor whiteColor];
     MainViewController *mainVC = [[MainViewController alloc] init];
@@ -27,7 +29,6 @@
     self.window.rootViewController = navigationVC;
     [self.window makeKeyAndVisible];
     
-    NSLog(@"zlh 2016 4 11");
     
     return YES;
 }
