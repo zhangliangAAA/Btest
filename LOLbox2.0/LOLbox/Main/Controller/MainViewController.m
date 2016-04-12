@@ -29,9 +29,7 @@
     [_mainV.button2 addTarget:self action:@selector(Equip) forControlEvents:UIControlEventTouchUpInside];
     [_mainV.button3 addTarget:self action:@selector(Infor) forControlEvents:UIControlEventTouchUpInside];
     
-    NSLog(@"张良浩。。。。");
-    NSLog(@"什么鬼？ 3：17");
-    NSLog(@"我是一只小小小鸟 4.53");
+    NSLog(@"模拟自己修改 8.34！");
 }
 
 - (void)Heroes
