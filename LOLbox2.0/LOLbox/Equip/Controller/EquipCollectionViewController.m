@@ -36,6 +36,7 @@
     [self.view addSubview:self.collectionV];
     
     NSLog(@"修改 4.12 8.28");
+    NSLog(@"修改2  8.54");
     
 }
 
