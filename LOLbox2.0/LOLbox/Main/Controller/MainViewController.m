@@ -30,6 +30,7 @@
     [_mainV.button3 addTarget:self action:@selector(Infor) forControlEvents:UIControlEventTouchUpInside];
     
     NSLog(@"模拟自己修改 8.34！");
+    // 模拟自己修改 9.05！！！
 }
 
 - (void)Heroes
