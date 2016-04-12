@@ -34,6 +34,9 @@
     [self.collectionV registerClass:[EquipCollectCell class] forCellWithReuseIdentifier:@"equip"];
     self.collectionV.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"huise.jpg"]];
     [self.view addSubview:self.collectionV];
+    
+    NSLog(@"修改 4.12 8.28");
+    
 }
 
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section
