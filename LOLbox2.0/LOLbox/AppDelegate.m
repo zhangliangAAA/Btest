@@ -26,6 +26,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     MainViewController *mainVC = [[MainViewController alloc] init];
     mainVC.view.backgroundColor = [UIColor orangeColor];
+    mainVC.view.backgroundColor = [UIColor orangeColor];
     UINavigationController *navigationVC = [[UINavigationController alloc] initWithRootViewController:mainVC];
     self.window.rootViewController = navigationVC;
     [self.window makeKeyAndVisible];
