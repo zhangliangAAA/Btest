@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3AB3F7AD1CC1FF6C002A3E25 /* TestVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB3F7AC1CC1FF6C002A3E25 /* TestVC.m */; };
+		3AB3F7B01CC20155002A3E25 /* TestMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB3F7AF1CC20155002A3E25 /* TestMainViewController.m */; };
 		793782BA1C50AC42003629FD /* QueryToolViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793782B91C50AC42003629FD /* QueryToolViewController.m */; };
 		793782BD1C50B30F003629FD /* kaelSkillDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793782BC1C50B30F003629FD /* kaelSkillDetailViewController.m */; };
 		793782C01C50BDFC003629FD /* TianfuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793782BF1C50BDFC003629FD /* TianfuViewController.m */; };
@@ -129,6 +130,8 @@
 /* Begin PBXFileReference section */
 		3AB3F7AB1CC1FF6C002A3E25 /* TestVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestVC.h; sourceTree = "<group>"; };
 		3AB3F7AC1CC1FF6C002A3E25 /* TestVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestVC.m; sourceTree = "<group>"; };
+		3AB3F7AE1CC20155002A3E25 /* TestMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestMainViewController.h; sourceTree = "<group>"; };
+		3AB3F7AF1CC20155002A3E25 /* TestMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestMainViewController.m; sourceTree = "<group>"; };
 		793782B81C50AC42003629FD /* QueryToolViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QueryToolViewController.h; sourceTree = "<group>"; };
 		793782B91C50AC42003629FD /* QueryToolViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QueryToolViewController.m; sourceTree = "<group>"; };
 		793782BB1C50B30F003629FD /* kaelSkillDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kaelSkillDetailViewController.h; sourceTree = "<group>"; };
@@ -759,6 +762,8 @@
 			children = (
 				79FAEDA01C44D0D50012952B /* MainViewController.h */,
 				79FAEDA11C44D0D50012952B /* MainViewController.m */,
+				3AB3F7AE1CC20155002A3E25 /* TestMainViewController.h */,
+				3AB3F7AF1CC20155002A3E25 /* TestMainViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -990,6 +995,7 @@
 				797498611C4DD432002173E6 /* CompareAbilityView.m in Sources */,
 				79C9B4861C4F2EAF00847FBA /* InforViewController.m in Sources */,
 				79FAEDB71C451A8E0012952B /* HeroListCell.m in Sources */,
+				3AB3F7B01CC20155002A3E25 /* TestMainViewController.m in Sources */,
 				79C9B5AB1C4C79110048580F /* CompareViewController.m in Sources */,
 				7970E4911C48F3AC00116EEA /* DataCell.m in Sources */,
 				793782BD1C50B30F003629FD /* kaelSkillDetailViewController.m in Sources */,
