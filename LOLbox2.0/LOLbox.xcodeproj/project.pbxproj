@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3AB3F7AD1CC1FF6C002A3E25 /* TestVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AB3F7AC1CC1FF6C002A3E25 /* TestVC.m */; };
 		793782BA1C50AC42003629FD /* QueryToolViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793782B91C50AC42003629FD /* QueryToolViewController.m */; };
 		793782BD1C50B30F003629FD /* kaelSkillDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793782BC1C50B30F003629FD /* kaelSkillDetailViewController.m */; };
 		793782C01C50BDFC003629FD /* TianfuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 793782BF1C50BDFC003629FD /* TianfuViewController.m */; };
@@ -126,6 +127,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3AB3F7AB1CC1FF6C002A3E25 /* TestVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestVC.h; sourceTree = "<group>"; };
+		3AB3F7AC1CC1FF6C002A3E25 /* TestVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestVC.m; sourceTree = "<group>"; };
 		793782B81C50AC42003629FD /* QueryToolViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QueryToolViewController.h; sourceTree = "<group>"; };
 		793782B91C50AC42003629FD /* QueryToolViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QueryToolViewController.m; sourceTree = "<group>"; };
 		793782BB1C50B30F003629FD /* kaelSkillDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kaelSkillDetailViewController.h; sourceTree = "<group>"; };
@@ -604,6 +607,8 @@
 				79FAEDB01C44F3A00012952B /* HeroesViewController.m */,
 				798FC0831C4641C3001AB58A /* HeroDetailViewController.h */,
 				798FC0841C4641C3001AB58A /* HeroDetailViewController.m */,
+				3AB3F7AB1CC1FF6C002A3E25 /* TestVC.h */,
+				3AB3F7AC1CC1FF6C002A3E25 /* TestVC.m */,
 				796E96D91C4A453000F40C04 /* GiftViewController.h */,
 				796E96DA1C4A453000F40C04 /* GiftViewController.m */,
 				796E96DF1C4A64C100F40C04 /* GiftImageViewController.h */,
@@ -998,6 +1003,7 @@
 				7970E48B1C48A38900116EEA /* likeCell.m in Sources */,
 				79C9B4981C4F8A1500847FBA /* GiftListCell.m in Sources */,
 				799EEFB41C478B110080996E /* Skill.m in Sources */,
+				3AB3F7AD1CC1FF6C002A3E25 /* TestVC.m in Sources */,
 				79C9B4891C4F340000847FBA /* LoginViewController.m in Sources */,
 				797498641C4DE35C002173E6 /* AbilityCell.m in Sources */,
 				799EEFB11C477FEA0080996E /* SkillCell.m in Sources */,
